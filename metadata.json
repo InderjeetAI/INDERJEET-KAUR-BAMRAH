@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered PDF Redactor",
+  "description": "An intelligent web application that uses AI to automatically detect and permanently redact sensitive information from PDF documents directly in your browser.",
+  "requestFramePermissions": []
+}
